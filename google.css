@@ -1,0 +1,84 @@
+a {
+  font-size: 0.72em;
+  color: #3a3939;
+  font-family: 'Roboto', sans-serif; }
+
+.signin {
+  position: absolute;
+  top: 4%;
+  left: 91.8%;
+  background-color: #4285F4;
+  height: 2.35em;
+  width: 5.5em;
+  border: 0;
+  border-radius: 0.15em;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 0.8em; }
+
+.logo {
+  position: absolute;
+  left: 36.9%;
+  top: 41.3%; }
+
+.sear {
+  position: absolute;
+  width: 50%;
+  height: 12%;
+  left: 25.9%;
+  top: 74.3%;
+  outline: none;
+  border: 1px solid #dcdcdc;
+  border-radius: 2em; }
+
+.sear:hover {
+  box-shadow: 1px 1px 8px 1px #dcdcdc; }
+
+.lucky {
+  background-color: #f3f3f3;
+  border: 0;
+  position: absolute;
+  left: 52.1%;
+  top: 96%;
+  height: 2.6em;
+  width: 10.5em;
+  border-radius: 0.25em;
+  font-size: 0.85em; }
+
+.gsearch {
+  background-color: #f3f3f3;
+  border: 0;
+  position: absolute;
+  left: 37.9%;
+  top: 96%;
+  height: 2.6em;
+  width: 9em;
+  border-radius: 0.25em;
+  font-size: 0.85em; }
+
+.lucky:hover {
+  border: 1px solid #cfc9c9;
+  color: black; }
+
+.gsearch:hover {
+  border: 1px solid #cfc9c9;
+  color: black;
+  background-color: #f5eeee; }
+
+.bottom {
+  position: absolute;
+  top: 110%;
+  background-color: #f3f3f3;
+  width: 100%;
+  height: 7%;
+  padding-top: 1em;
+  border-top: 1px solid #dcdcdc; }
+
+#ads {
+  position: absolute;
+  top: 30%;
+  left: 2.5%;
+  font-size: 0.87em;
+  font-family: 'Arial'; }
+
+/*# sourceMappingURL=google.css.map */
